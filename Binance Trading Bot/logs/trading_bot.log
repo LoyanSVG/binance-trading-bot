@@ -1,0 +1,9 @@
+2026-06-12 13:44:50,441 - INFO - Valid quantity: 0.01
+2026-06-12 13:44:51,525 - INFO - Successfully connected to Binance Testnet
+2026-06-12 13:44:51,526 - INFO - Placing MARKET BUY order | Symbol: BTCUSDT | Qty: 0.01
+2026-06-12 13:44:52,386 - INFO - MARKET order placed successfully | OrderId: 15007082473
+2026-06-12 13:45:40,499 - INFO - Valid quantity: 0.01
+2026-06-12 13:45:41,183 - INFO - Successfully connected to Binance Testnet
+2026-06-12 13:45:41,183 - INFO - Valid price: 150000.0
+2026-06-12 13:45:41,184 - INFO - Placing LIMIT SELL order | Symbol: BTCUSDT | Qty: 0.01 | Price: 150000.0
+2026-06-12 13:45:41,655 - INFO - LIMIT order placed successfully | OrderId: 15007122457
