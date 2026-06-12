@@ -64,3 +64,5 @@ Binance Trading Bot/
 ├── .env
 ├── requirements.txt
 └── README.md
+
+---
