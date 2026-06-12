@@ -51,6 +51,7 @@ Limit order: python cli.py --symbol BTCUSDT --side BUY --type LIMIT --quantity 0
 
 ## Project Structure
 
+```
 Binance Trading Bot/
 ├── bot/
 │   ├── __init__.py
@@ -64,5 +65,4 @@ Binance Trading Bot/
 ├── .env
 ├── requirements.txt
 └── README.md
-
----
+```
